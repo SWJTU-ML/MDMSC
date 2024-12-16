@@ -28,9 +28,11 @@ python main.py
 
 # Citation
 If you find this file useful in your research, please consider citing:
+```bibtex
 @inproceedings{xu2025clustering,
       title={Clustering by Mining Density Distributions and Splitting Manifold Structure}, 
       author={Zhichang Xu and Zhiguo Long and Hua Meng},
       year={2024},
       pages={accpeted in AAAI-25} 
 }
+```
